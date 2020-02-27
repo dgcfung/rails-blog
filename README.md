@@ -8,5 +8,3 @@ You should fork and clone this repository and create your Rails app inside of it
 Link [here](https://guides.rubyonrails.org/getting_started.html)
 
 ![cat typing animated](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-
-## REMEMBER: PULL REQUESTS ARE NOT OPTIONAL!
